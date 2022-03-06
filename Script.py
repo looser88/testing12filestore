@@ -10,7 +10,7 @@ class script(object):
 ✯ 𝙱𝚄𝙸𝙻𝙳 𝚂𝚃𝙰𝚃𝚄𝚂: v1.0.1 [ 𝙱𝙴𝚃𝙰 ]"""
     SOURCE_TXT = """<b>NOTE:</b>
 - Auto Filter bot is a open source project. 
-- Source - https://github.com/selfie-bd/autofilterv5  
+- Source -   
 
 <b>DEVS:</b>
 - <a href=https://t.me/Dot_serials_bot>@Dot_serials_bot</a>"""
@@ -65,7 +65,7 @@ class script(object):
     EXTRAMOD_TXT = """Help: <b>Extra Modules</b>
 
 <b>NOTE:</b>
-these are the extra features of Eva Maria
+these are the extra features of 
 
 <b>Commands and Usage:</b>
 • /id - <code>get id of a specified user.</code>
